@@ -260,7 +260,7 @@ ul a{
     justify-content: center;
     align-items: center; 
 }
-.foot-logo {
+.logo {
     background-image: url("amazon2.png") ;
     background-size: cover;
     height: 50px;
